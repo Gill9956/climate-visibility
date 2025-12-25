@@ -19,38 +19,33 @@ Before you run this project make sure you have MongoDB Atlas account and you hav
 
 Step 1. Cloning the repository.
 
-```
-
-git clone https://github.com/Machine-Learning-01/Customer_segmentation.git
-
-```
 
 Step 2. Create a  environment.
 
-```
+
 
 Step 3. Install the requirements
 
-```
+
 
 pip install -r requirements.txt
 
-```
+
 
 Step 4. Export the environment variable
 
 export MONGODB_URL= <MONGODB_URL>
 
 
-```
+
 
 Step 5. Run the application server
 
-```
+
 
 python app.py
 
-```
+
 
 Step 6. Train application
 
